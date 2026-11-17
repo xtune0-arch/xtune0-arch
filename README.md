@@ -22,13 +22,15 @@ Twist adds interconnected mechanics such as upgradeable buckets, multiplier pins
 
 **Focus:** Product ownership, economy and systems design, technical requirements, QA, and release delivery.
 
-## 🛠️ Behind the Product: Sound Lab
+
+### 🛠️ Behind the Product: Sound Lab
 
 I built an isolated Sound Lab to prototype and compare collision, landing, and reward sound concepts before integrating audio into the live game. It includes adjustable sound parameters, multi-ball density simulations, and automated checks so I can evaluate audio feedback without changing production gameplay.
 
 <a href="./plinko-twist-sound-lab.png"><img width="390" alt="Plinko Twist Sound Lab showing sound controls, concept comparisons, and a ten-ball density simulation" src="./plinko-twist-sound-lab.png" /></a>
 
-## 💗 Project Mira — Interactive Narrative Game
+
+### 💗 Project Mira — Interactive Narrative Game
 
 <img width="450" alt="Project Mira interactive narrative game banner" src="https://github.com/user-attachments/assets/88f87460-3f87-4b21-a57d-43de8ea70667" />
 
@@ -38,13 +40,15 @@ A narrative-driven experience built around branching conversations, persistent m
 
 **Focus:** Product vision, narrative and systems design, UX, conversation architecture, and iterative AI-assisted prototyping.
 
-## 🛠️ Behind the Product: Art Direction Editor
+
+### 🛠️ Behind the Product: Art Direction Editor
 
 I developed a custom Art Direction Editor to review character expression variants, adjust portrait scale and positioning, and refine environment framing in context. The tool supports faster visual iteration and more consistent presentation across the game's scenes.
 
 <a href="./project-mira-art-direction-editor.png"><img width="390" alt="Project Mira Art Direction Editor showing Mira in the studio with expression, portrait, and background adjustment controls" src="./project-mira-art-direction-editor.png" /></a>
 
-## 📊 Monetization UX Experiment — Product Case Study
+
+### 📊 Monetization UX Experiment — Product Case Study
 
 <img width="450" alt="Monetization UX Experiment case study banner" src="https://github.com/user-attachments/assets/316b2e8b-6b35-422a-9dd8-c026e9e7e59e" />
 
@@ -55,6 +59,7 @@ A product analysis of subscription paywalls across web and Android journeys. I e
 I built a **current-versus-proposed interactive prototype** and validated its behavior with automated browser tests. This demonstrates a product hypothesis, not a claimed live conversion uplift.
 
 **Focus:** Product discovery, UX analysis, monetization strategy, experimentation, and rapid prototyping.
+
 
 ## 🧩 How I Work
 
