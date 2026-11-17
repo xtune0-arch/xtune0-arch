@@ -10,7 +10,7 @@ This profile showcases independent product work where I use AI-assisted developm
 
 ## 🚀 Selected Product Work
 
-## 🎯 Plinko Twist — Live Browser Game
+### 🎯 Plinko Twist — Live Browser Game
 
 <img width="450" alt="Plinko Twist browser game banner" src="https://github.com/user-attachments/assets/bfa630a0-3316-4cc0-8920-fa8ca3ece3aa" />
 
