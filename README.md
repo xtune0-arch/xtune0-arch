@@ -12,6 +12,8 @@ This profile showcases independent product work where I use AI-assisted developm
 
 ### 🎯 Plinko Twist — Live Browser Game
 
+<img width="1672" height="941" alt="Neon Plinko Twist Game Banner" src="https://github.com/user-attachments/assets/bfa630a0-3316-4cc0-8920-fa8ca3ece3aa" />
+
 **[Play Plinko Twist](https://plinko-twist.xtune0.workers.dev/)** · Live product · Private source repository
 
 A browser game I took from concept to deployment, with **Classic and Twist modes**, **54 playable configurations**, original game mathematics, and **Provably Fair** outcome verification.
@@ -22,6 +24,8 @@ Twist adds interconnected mechanics such as upgradeable buckets, multiplier pins
 
 ### 💗 Project Mira — Interactive Narrative Game
 
+<img width="1672" height="941" alt="Project Mira_ Interactive Narrative Game" src="https://github.com/user-attachments/assets/88f87460-3f87-4b21-a57d-43de8ea70667" />
+
 **[Explore the playable demo](https://project-mira-demo.xtune0.chatgpt.site/)** · In development · Private source repository
 
 A narrative-driven experience built around branching conversations, persistent memories, relationship progression, and interconnected gameplay systems. The design explores how player choices shape an evolving relationship and lead toward multiple possible endings.
@@ -29,6 +33,8 @@ A narrative-driven experience built around branching conversations, persistent m
 **Focus:** Product vision, narrative and systems design, UX, conversation architecture, and iterative AI-assisted prototyping.
 
 ### 📊 Monetization UX Experiment — Product Case Study
+
+<img width="1671" height="941" alt="Monetization UX Experiment Case Study" src="https://github.com/user-attachments/assets/316b2e8b-6b35-422a-9dd8-c026e9e7e59e" />
 
 **[Explore the interactive prototype](https://fet-paywall-experiment.pages.dev/)** · Live prototype · Private source repository
 
