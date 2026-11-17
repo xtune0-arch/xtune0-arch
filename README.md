@@ -1,53 +1,55 @@
 # Hi, I'm Dorin George Cristea 👋
 
-### Product Manager | Game Designer | Product Strategy & AI-Assisted Development
+**Lead Product Manager | Product Strategy | Systems Thinking | Growth & Monetization**
 
-I'm a Product Manager with over 10 years of experience across Game Design, Game Economy, F2P Gaming, and iGaming.
+My career started in Game and Economy Design and evolved into Product Management and product leadership. Over more than a decade in F2P gaming and iGaming, I've worked on progression, retention, monetization, product strategy, platform integrations, and cross-functional delivery.
 
-My work has focused on understanding how products create long-term value through progression, engagement, monetization, and the systems connecting them. Over time, I've expanded from designing individual game mechanics to leading product development, coordinating multidisciplinary teams, and improving the processes that support scalable products.
+I tend to approach products as interconnected systems. A good feature matters, but so do the economics, technical capabilities, and team decisions that make it work in practice.
 
-More recently, I've started exploring how AI-assisted development can help turn product ideas into functional prototypes, allowing me to experiment independently while applying the same Product Management and Game Design principles I've developed throughout my career.
+This profile showcases independent product work where I use AI-assisted development to take ideas beyond documents and into playable experiences and testable prototypes. I own the product direction, requirements, trade-offs, and validation; AI helps accelerate implementation, not replace product judgment.
 
-## 🚀 Current Projects
+## 🚀 Selected Product Work
 
-### Project Mira — Narrative Companion Game
+### 🎯 Plinko Twist — Live Browser Game
 
-An experimental narrative-driven companion game exploring relationship progression, interactive conversations, character development, and interconnected gameplay systems.
+**[Play Plinko Twist](https://plinko-twist.xtune0.workers.dev/)** · Live product · Private source repository
 
-The project combines Game Design, Product Management, and AI-assisted development, with a focus on building and testing a coherent player experience.
+A browser game I took from concept to deployment, with **Classic and Twist modes**, **54 playable configurations**, original game mathematics, and **Provably Fair** outcome verification.
 
-**Status:** Active development | Private repository
+Twist adds interconnected mechanics such as upgradeable buckets, multiplier pins, Free Balls, and Twist Ball. The game runs on a Cloudflare-based backend with server-authoritative settlement, persistent sessions, and automated release validation. It uses **virtual credits only**.
 
-### Plinko — Game Prototype
+**Focus:** Product ownership, economy and systems design, technical requirements, QA, and release delivery.
 
-A game development project exploring probability-based mechanics, configurable gameplay, and the relationship between game mathematics and player experience.
+### 💗 Project Mira — Interactive Narrative Game
 
-**Status:** Early development | Private repository
+**[Explore the playable demo](https://project-mira-demo.xtune0.chatgpt.site/)** · In development · Private source repository
 
-## 🧠 Areas of Expertise
+A narrative-driven experience built around branching conversations, persistent memories, relationship progression, and interconnected gameplay systems. The design explores how player choices shape an evolving relationship and lead toward multiple possible endings.
 
-- **Product Management:** Product Strategy, Roadmaps, Discovery, Delivery, Cross-functional Leadership
-- **Game Design:** Game Economy, Progression, Reward Systems, Engagement, LiveOps
-- **Growth & Monetization:** Retention, User Behavior, Conversion Optimization, Revenue Performance
-- **Product Systems:** Platform Thinking, Configurability, Integrations, Scalable Product Development
-- **AI-Assisted Development:** Rapid Prototyping, Requirements Definition, Implementation Review, Iterative Development
+**Focus:** Product vision, narrative and systems design, UX, conversation architecture, and iterative AI-assisted prototyping.
 
-## 🔬 What I'm Exploring
+### 📊 Monetization UX Experiment — Product Case Study
 
-I'm interested in how AI changes the relationship between product thinking and software development.
+**[Explore the interactive prototype](https://fet-paywall-experiment.pages.dev/)** · Live prototype · Private source repository
 
-My current projects allow me to explore how far a Product Manager with a Game Design background can take a product independently, while also understanding where specialized Engineering, QA, and Art expertise becomes essential.
+A product analysis of subscription paywalls across web and Android journeys. I examined where users encounter restrictions, how subscription value is communicated, and how a more contextual paywall could improve decision-making.
 
-I see AI as a way to expand what individuals and small multidisciplinary teams can achieve, rather than a replacement for the experience and judgment those specialists bring.
+I built a **current-versus-proposed interactive prototype** and validated its behavior with automated browser tests. This demonstrates a product hypothesis, not a claimed live conversion uplift.
 
-## 🔗 Portfolio & Professional Profile
+**Focus:** Product discovery, UX analysis, monetization strategy, experimentation, and rapid prototyping.
 
-**Portfolio & Articles:**  
-https://doringeorgecristea.blogspot.com/
+## 🧩 How I Work
 
-**LinkedIn:**  
-https://www.linkedin.com/in/dorin-george-cristea/
+- **Product strategy and discovery:** finding the problem worth solving, defining scope, and making trade-offs explicit.
+- **Product systems and monetization:** connecting user behavior, progression, retention, platform capabilities, and commercial outcomes.
+- **Cross-functional delivery:** turning complex product decisions into requirements teams can build, test, and maintain.
+- **AI-assisted prototyping:** using AI tools for implementation, then reviewing results through hands-on QA, automated testing, and iteration.
 
----
+Most development repositories are private. The live demos and public case studies are here to show the products and the thinking behind them, rather than imply that this is a conventional software-engineering portfolio.
+
+## 🔗 More About My Work
+
+- **[LinkedIn](https://www.linkedin.com/in/dorin-george-cristea/)** — professional experience, product writing, and discussions.
+- **[Portfolio & Articles](https://doringeorgecristea.blogspot.com/)** — product systems, game design, strategy, and monetization.
 
 *Building products by understanding the systems behind them.*
